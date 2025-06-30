@@ -1,0 +1,12 @@
+[submodule "mfe-syslab-root"]
+	path = mfe-syslab-root
+	url = https://github.com/erick-gomes-barbosa/mfe-syslab-root.git
+[submodule "mfe-syslab-auth"]
+	path = mfe-syslab-auth
+	url = https://github.com/erick-gomes-barbosa/mfe-syslab-auth.git
+[submodule "mfe-syslab-home"]
+	path = mfe-syslab-home
+	url = https://github.com/erick-gomes-barbosa/mfe-syslab-home.git
+[submodule "mfe-syslab-profile"]
+	path = mfe-syslab-profile
+	url = https://github.com/erick-gomes-barbosa/mfe-syslab-profile.git
