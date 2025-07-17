@@ -10,3 +10,10 @@
 [submodule "mfe-syslab-profile"]
 	path = mfe-syslab-profile
 	url = https://github.com/erick-gomes-barbosa/mfe-syslab-profile.git
+
+[submodule "mfe-syslab-navbar"]
+	path = mfe-syslab-navbar
+	url = https://github.com/erick-gomes-barbosa/mfe-syslab-navbar.git
+[submodule "mfe-syslab-admin"]
+	path = mfe-syslab-admin
+	url = https://github.com/erick-gomes-barbosa/mfe-syslab-admin.git
